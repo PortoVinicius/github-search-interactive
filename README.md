@@ -19,13 +19,13 @@ Um pequeno programa interativo que roda dentro do Docker e permite buscar reposi
 
 
 📂 Estrutura do projeto
-
+````bash
 github-search-interactive/
 │
 ├── Dockerfile
 ├── search.py
 └── README.md
-
+````
 
 📥 Como instalar e rodar
 1. Clone este repositório (ou crie a pasta manualmente)
